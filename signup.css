@@ -1,113 +1,113 @@
 .body{
-    background-color: #F8ECF9;
-    margin-left: 100px;
-    margin-right: 100px;
- }
- 
- .signupnavbar{
-     display: flex;
-     justify-content: space-between;
-     margin-top: 36px;
- }
- 
- .signupnavbar .backpagebutton{
-     display: flex;
-     border: none;
-     gap: 56px;
-     background-color:#F8ECF9 ;
-     color: black;
-     font-weight: 700;
- }
- 
- .backbuttonimg{
-     height: 3px;
-     width: 6px;
- }
- 
- .contenth1{
-     font-family: sans-serif;
-     font-size: 39px;
- 
- }
- 
- .contentp{
-     font-family: sans-serif;
-     font-size: 20px;
- }
- 
-  .span1 , .span2 , .span3{
-     font-weight: 600;
-     color: black ;
- }
- 
- .signupform .formh2{
-     font-family: sans-serif;
- }
- 
- .signupform p{
-     font-family: sans-serif;
-     font-weight: 600;
- }
- 
- .signupform .termsandcondition{
-     font-family: sans-serif;
-     color:black;
-     font-weight: 500;
- }
- 
- .termsandcondition .tandclink{
-     color: #664EFC;
-     font-weight: 600;
- }
- 
- .signupform , input{
-     height: 3em;
-     width: 23em;
-     border-radius: 5px;
-     border-color: grey;
-    
-     
- }
- 
- .checkbox{
-     height: 17px;
-     width: 19px;
- }
- 
- .createaccountbutton{
-     height: 3em;
-     width: 24em;
-     background-color: #664EFC;
-     color: white;
-     font-family: sans-serif;
-     font-weight: 500;
-     border: none;
-     border-radius: 5px;
- 
- }
- 
- .signupform{
-     width: 26em;
-     height: 32em;
-     background-color: white;
- }
- 
- .signuppage {
-     display: flex;
+   background-color: #F8ECF9;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+
+.signupnavbar{
+    display: flex;
     justify-content: space-between;
-     padding-top: 40px;
- }
- 
- .signupcontent{
-     margin-top: 19px;
- }
- 
- .formcontent{
-     padding-left: 43px;
-     padding-top: 20px;
-     padding-bottom: 20px;
- }
- 
- .aligntcandcheckbox{
-     display: flex;
- }
+    margin-top: 36px;
+}
+
+.signupnavbar .backpagebutton{
+    display: flex;
+    border: none;
+    gap: 56px;
+    background-color:#F8ECF9 ;
+    color: black;
+    font-weight: 700;
+}
+
+.backbuttonimg{
+    height: 3px;
+    width: 6px;
+}
+
+.contenth1{
+    font-family: sans-serif;
+    font-size: 39px;
+
+}
+
+.contentp{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+ .span1 , .span2 , .span3{
+    font-weight: 600;
+    color: black ;
+}
+
+.signupform .formh2{
+    font-family: sans-serif;
+}
+
+.signupform p{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.signupform .termsandcondition{
+    font-family: sans-serif;
+    color:black;
+    font-weight: 500;
+}
+
+.termsandcondition .tandclink{
+    color: #664EFC;
+    font-weight: 600;
+}
+
+.signupform , input{
+    height: 3em;
+    width: 23em;
+    border-radius: 5px;
+    border-color: grey;
+   
+    
+}
+
+.checkbox{
+    height: 17px;
+    width: 19px;
+}
+
+.createaccountbutton{
+    height: 3em;
+    width: 24em;
+    background-color: #664EFC;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.signupform{
+    width: 26em;
+    height: 32em;
+    background-color: white;
+}
+
+.signuppage {
+    display: flex;
+   justify-content: space-between;
+    padding-top: 40px;
+}
+
+.signupcontent{
+    margin-top: 19px;
+}
+
+.formcontent{
+    padding-left: 43px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.aligntcandcheckbox{
+    display: flex;
+}
