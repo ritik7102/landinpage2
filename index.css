@@ -1,0 +1,215 @@
+
+        /* this is navbar styling */
+
+        .navbar{
+            width: 100%;
+            height:50px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 40px;
+        
+        }
+    
+        .navbar .options{
+            height: 100%;
+            display: flex;
+            align-items: center;
+        }
+    
+        .navbar img{
+            height: 100%;
+    
+        }
+    
+        .navbar .options a{
+            text-decoration: none;
+            background-color: #664EFC;
+            color: white;
+            padding-left:20px;
+            padding-right: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+            border-radius: 5px;
+            font-family: sans-serif;
+            margin-left: 20px;
+    
+        }
+    
+        body{
+            margin-left: 100px;
+            margin-right: 100px;
+            background: linear-gradient(135deg, rgba(238,208,244,1) 0%, rgba(253,252,249,1) 47%);
+            
+        }
+    
+        .navbar .options p{
+            margin-left: 30px;
+            font-family: sans-serif;
+        }
+    
+            /*  navbar styling ends here */
+    
+            /* page1 styling starts here  */
+    
+    
+        .page1h1{
+            font-family: sans-serif;
+            font-size: 3em;
+        
+        }
+    
+        .page1ptag{
+            font-family: sans-serif;
+            color: gray;
+            
+            
+        }
+    
+        .page1button{
+            text-decoration: none;
+            background-color: #664EFC;
+            color: white;
+            padding-left:20px;
+            padding-right: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+            border-radius: 5px;
+            font-family: sans-serif;
+        
+            
+    
+        }
+    
+        .page1img{
+            width:28em ;
+            height:23em ;
+        }
+    
+        .page1{
+        margin-top: 90px;
+        display: flex;
+        justify-content: space-between;
+        }
+    
+        .usersimg{
+            Display:block;
+            margin-top: 30px;
+        }
+    
+        .userscounting{
+            color: #664EFC;
+            font-family: sans-serif;
+            font-weight: 600;
+        }
+    
+        .joinslogan{
+            font-family: sans-serif;
+            color: grey;
+            font-weight: 500;
+        }
+    
+                /* page1 styling ends here */
+    
+    
+    
+                /* page2 styling starts here  */
+    
+    
+        .page2{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 170px;
+        }
+    
+        .page2h2{
+            font-family: sans-serif;
+            font-size: 2em;
+        }
+    
+        .page2p1{
+            font-family: sans-serif;
+            color: gray;  
+        }
+    
+        .page2link1{
+            color: #614de4;
+            font-weight: 600;
+            
+        }
+    
+        .socialicon{
+            margin-top: 25px;
+        }
+    
+        .page2section2{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 50px;
+        }
+    
+        .phoneimg{
+            height: 50vh ;
+        }
+    
+        .section2h2{
+            font-family: sans-serif;
+            font-size: 2em;  
+        }
+    
+        .section2p{
+            font-family: sans-serif;
+            font-family: sans-serif;
+            color: grey;
+        }
+    
+        .section2link{
+            color: #664EFC;
+            font-weight: 700;
+            font-family: sans-serif;
+        }
+    
+           /* page2 styling ends here */
+           
+    
+              /* footer styling starts here  */
+    
+        .footerh2{
+            font-family: sans-serif;
+            font-weight: 600;
+        }
+    
+        .footerp{
+            font-family: sans-serif;
+            color: grey;
+        }
+    
+        .footer{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+        }
+    
+        .tablecontent{
+            display: flex;
+            gap: 48px;
+        }
+    
+        .tablecontent h2{
+            font-family: sans-serif;
+    
+        }
+    
+        .tablecontent p{
+            font-family: sans-serif;
+            color: grey;
+            
+        }
+    
+           /* footer styling ends here */
+    
+    
+    
+    
